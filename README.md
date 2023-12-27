@@ -1,6 +1,3 @@
-# mids-207-final-project-summer23-Nick-Frances-Jerry-Chi
-DATASCI W207 Summer 2023 Final Project
-
 This project aims to use ML techniques to distinguish emergency vehicles from regular road noise in order to improve traffic flow and reduce congestion
 
 - There are 6 **main directories** & 6 <ins>sub directories</ins> in this repo containing the following:
